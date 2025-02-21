@@ -43,7 +43,7 @@ MRI imaging dataset
 #### Output2 - Name of the output
 ![Screenshot 2023-11-25 134253](https://github.com/sreevarshad/YOLO-DRIVEN-BRAIN-TUMOR-DETECTION-AND-SEGMENTATION-IN-MRI-WITH-DEEP-LEARNING-/blob/main/WhatsApp%20Image%202025-02-21%20at%2012.14.38%20PM.jpeg)
 
-Detection Accuracy: 93.7%
+Detection Accuracy: 90.7%
 Note: These metrics can be customized based on your actual performance evaluations.
 
 
