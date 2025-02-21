@@ -30,7 +30,7 @@ MRI imaging dataset
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+![Screenshot 2023-11-25 133637](https://github.com/sreevarshad/YOLO-DRIVEN-BRAIN-TUMOR-DETECTION-AND-SEGMENTATION-IN-MRI-WITH-DEEP-LEARNING-/blob/main/WhatsApp%20Image%202025-02-21%20at%2012.14.17%20PM.jpeg)
 
 
 ## Output
@@ -38,12 +38,12 @@ MRI imaging dataset
 <!--Embed the Output picture at respective places as shown below as shown below-->
 #### Output1 - Name of the output
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
+![Screenshot 2023-11-25 134037](https://github.com/sreevarshad/YOLO-DRIVEN-BRAIN-TUMOR-DETECTION-AND-SEGMENTATION-IN-MRI-WITH-DEEP-LEARNING-/blob/main/WhatsApp%20Image%202025-02-21%20at%2012.14.37%20PM.jpeg)
 
 #### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
+![Screenshot 2023-11-25 134253](https://github.com/sreevarshad/YOLO-DRIVEN-BRAIN-TUMOR-DETECTION-AND-SEGMENTATION-IN-MRI-WITH-DEEP-LEARNING-/blob/main/WhatsApp%20Image%202025-02-21%20at%2012.14.38%20PM.jpeg)
 
-Detection Accuracy: 96.7%
+Detection Accuracy: 93.7%
 Note: These metrics can be customized based on your actual performance evaluations.
 
 
